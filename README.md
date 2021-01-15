@@ -1,4 +1,4 @@
-# Bike_Sharing_Assignment
+# US_Bike_Sharing_Demand Assignment
 Linear Regression (Supervised Machine Learning)
 
 ### Problem Statement
